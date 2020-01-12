@@ -1,4 +1,4 @@
-pipe;ome {
+pipeline {
   agents any
   tools {
     maven 'MAVEN3'
